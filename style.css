@@ -1,0 +1,12 @@
+.label--style {
+  width: 50rem;
+}
+.spacing{
+    width: 25rem;
+    display: flex;
+    justify-content: space-between;
+}
+.typing{
+    padding: 5px;
+    width: 100%;
+}
