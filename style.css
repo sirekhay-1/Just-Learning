@@ -1,12 +1,12 @@
 .label--style {
-  width: 50rem;
+  width: 10rem;
 }
 .spacing{
-    width: 25rem;
+    width: 18rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .typing{
     padding: 5px;
-    width: 100%;
+    /* width: 100%; */
 }
